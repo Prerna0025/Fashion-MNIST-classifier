@@ -95,7 +95,7 @@ python main_fashion_mnist_classifier.py
 ![Fashion MNIST dataset](FashionMNISTdataset.png)
   
 * Training and validation accuracy/loss curves
-![Training and validation metric](Training and validation metric.png)
+![Training and validation metric](Trainingandvalidationmetric.png)
   
 * Final test accuracy and predictions
 
