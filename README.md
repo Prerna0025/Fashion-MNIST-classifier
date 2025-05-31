@@ -92,7 +92,7 @@ python main_fashion_mnist_classifier.py
 ## Output
 
 * A grid of sample training images with labels
-![Fashion MNIST dataset](Fashion MNIST dataset.png)
+![Fashion MNIST dataset](FashionMNISTdataset.png)
   
 * Training and validation accuracy/loss curves
 ![Training and validation metric](Training and validation metric.png)
