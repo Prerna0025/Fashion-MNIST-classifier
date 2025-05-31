@@ -84,7 +84,7 @@ pip install -r requirements.txt
 To run the training script:
 
 ```bash
-python fashion_mnist_classifier.py
+python main_fashion_mnist_classifier.py
 ```
 
 ---
@@ -92,7 +92,11 @@ python fashion_mnist_classifier.py
 ## Output
 
 * A grid of sample training images with labels
+![Fashion MNIST](Fashion MNIST dataset.png)
+  
 * Training and validation accuracy/loss curves
+![Fashion MNIST2](Training and validation metric.png)
+  
 * Final test accuracy and predictions
 
 ---
